@@ -1,1 +1,1 @@
-# maaz_-1.py
+print("maaz")
